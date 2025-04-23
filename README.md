@@ -2,6 +2,8 @@ First Odin project
 A basic HTML Recipe website
 
 Skills I demonstrated with this project:
--Making structured HTML websites
--Adding list and images to them
--Creating links between pages
+<ul>
+  <li>Making structured HTML websites</li>
+  <li>Adding list and images to them</li>
+  <li>Creating links between pages</li>
+</ul>
