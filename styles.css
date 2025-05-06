@@ -1,0 +1,35 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.odin-recipe-head {
+    background-color: red;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.odin-recipe-list {
+    border: solid black;
+}
+
+.odin-recipe-home {
+    text-align: center;
+    font-size: 30px;
+    background-image: url('recipes/images/logo.png');
+    width: 256px;
+    height: 256px;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    margin: 0 auto;
+    
+    
+}
+
+.odin-recipe-title {
+    color: red;
+}
+
+.odin-recipe-description {
+    background-color: red;
+}
